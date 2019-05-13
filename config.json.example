@@ -1,0 +1,16 @@
+{
+    "fromWhom": "",
+    "mailgun": {
+        "apiKey": "",
+        "domain": ""
+    },
+    "targets": [
+        {
+            "url": "",
+            "flag": "",
+            "flagInError": false,
+            "recipients": [],
+            "timezone": "America/Los_Angeles"
+        }
+    ]
+}
